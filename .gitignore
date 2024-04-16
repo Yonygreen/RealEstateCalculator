@@ -1,4 +1,6 @@
 # created by virtualenv automatically
-Scripts
+.venv/Scripts
 Lib
 pyvenv.cfg
+.venv
+.idea
